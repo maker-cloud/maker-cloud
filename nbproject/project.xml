@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.php.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/php-project/1">
+            <name>curriculum</name>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>automotriz</word>
+            <word>Calculo</word>
+            <word>carabobo</word>
+            <word>Caraboob</word>
+            <word>Cinematica</word>
+            <word>clientes</word>
+            <word>CNR</word>
+            <word>Comunicacion</word>
+            <word>Comunicación</word>
+            <word>detalles</word>
+            <word>Dinamica</word>
+            <word>Electricidad</word>
+            <word>electronica</word>
+            <word>estación</word>
+            <word>Estadistica</word>
+            <word>extracción</word>
+            <word>Fisicas</word>
+            <word>Habilidades</word>
+            <word>implementación</word>
+            <word>instalación</word>
+            <word>JDK</word>
+            <word>Magnetismo</word>
+            <word>Matematicas</word>
+            <word>multimetro</word>
+            <word>Naranjo</word>
+            <word>Personales</word>
+            <word>Programacion</word>
+            <word>Programación</word>
+            <word>reparación</word>
+            <word>resolución</word>
+            <word>Selección</word>
+            <word>Tecnico</word>
+            <word>Utilización</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>

@@ -1,0 +1,36 @@
+*
+{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0
+}
+body
+{
+    display: flex;
+    
+    
+    width: 1200px;
+    height: 1200px;
+    padding: 120px
+}
+.left-container
+{
+    position: relative;
+    
+    border: 1px red solid;
+    width: 26%;
+    height: 80%;
+    background-color:  #d4d4d4 ;
+}
+.right-container
+{
+    width: 52%;
+    height: 80%;
+    
+}
+h1
+{
+    padding: 10px;
+    text-align: center;
+    border: 1px red solid;  
+}
